@@ -1,12 +1,23 @@
 {
   "name": "dealers_choice_js",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcreys/dealers_choice_js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jcreys/dealers_choice_js/issues"
+  },
+  "homepage": "https://github.com/jcreys/dealers_choice_js#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
